@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">Lembretes</string>
+
+    <!-- Auth Screen -->
+    <string name="auth_badge">Sincronização na Nuvem</string>
+    <string name="auth_headline">Nunca mais esqueça o que importa.</string>
+    <string name="auth_subtitle">Crie lembretes inteligentes com alertas no horário certo, categorias visuais, repetição automática e backup seguro na sua conta Google.</string>
+    <string name="auth_sign_in_google">Entrar com o Google</string>
+    <string name="auth_signing_in">Conectando…</string>
+    <string name="auth_hero_desc">Ilustração de organização e lembretes</string>
+    <string name="auth_feature_alerts">Alertas pontuais</string>
+    <string name="auth_feature_sync">Salvo na nuvem</string>
+    <string name="auth_feature_repeat">Rotinas diárias</string>
+
+    <!-- Navigation & Filters -->
+    <string name="tab_today">Hoje</string>
+    <string name="tab_upcoming">Próximos</string>
+    <string name="tab_all">Todos</string>
+    <string name="tab_completed">Concluídos</string>
+    <string name="search_placeholder">Buscar lembretes ou notas…</string>
+    <string name="clear_search">Limpar busca</string>
+
+    <!-- Header & Summary -->
+    <string name="greeting_morning">Bom dia</string>
+    <string name="greeting_afternoon">Boa tarde</string>
+    <string name="greeting_evening">Boa noite</string>
+    <string name="summary_pending_today">Hoje</string>
+    <string name="summary_overdue">Atrasados</string>
+    <string name="summary_completed">Feitos</string>
+    <string name="sign_out_desc">Sair da conta</string>
+    <string name="sign_out_confirm_title">Sair da conta?</string>
+    <string name="sign_out_confirm_body">Seus lembretes ficam salvos neste celular.</string>
+    <string name="action_sign_out">Sair</string>
+    <string name="action_cancel">Cancelar</string>
+
+    <!-- Notifications Permission Banner -->
+    <string name="notif_banner_title">Ative os alertas de horário</string>
+    <string name="notif_banner_body">Permita notificações para receber avisos sonoros quando seus lembretes vencerem.</string>
+    <string name="notif_banner_enable">Ativar</string>
+    <string name="notif_channel_name">Alertas de Lembretes</string>
+    <string name="notif_channel_desc">Notificações nos horários agendados para seus lembretes</string>
+    <string name="notif_default_body">Toque para abrir seus lembretes.</string>
+    <string name="notif_test_sent">Notificação de teste enviada!</string>
+
+    <!-- Categories -->
+    <string name="cat_all">Todas</string>
+    <string name="cat_personal">Pessoal</string>
+    <string name="cat_work">Trabalho</string>
+    <string name="cat_health">Saúde</string>
+    <string name="cat_finance">Finanças</string>
+    <string name="cat_study">Estudos</string>
+    <string name="cat_shopping">Compras</string>
+
+    <!-- Priorities -->
+    <string name="prio_low">Baixa</string>
+    <string name="prio_medium">Média</string>
+    <string name="prio_high">Alta</string>
+
+    <!-- Recurrence -->
+    <string name="rec_none">Não repetir</string>
+    <string name="rec_daily">Diário</string>
+    <string name="rec_weekly">Semanal</string>
+    <string name="rec_monthly">Mensal</string>
+
+    <!-- Actions & Cards -->
+    <string name="fab_new_reminder">Novo lembrete</string>
+    <string name="snooze_1h">+1h</string>
+    <string name="snooze_tomorrow">Amanhã 9h</string>
+    <string name="mark_complete_desc">Marcar como concluído</string>
+    <string name="mark_incomplete_desc">Reabrir lembrete</string>
+    <string name="delete_reminder_desc">Excluir lembrete</string>
+    <string name="edit_reminder_desc">Editar lembrete</string>
+    <string name="badge_overdue">Atrasado</string>
+    <string name="badge_today">Hoje</string>
+    <string name="badge_tomorrow">Amanhã</string>
+    <string name="msg_recurring_advanced">Concluído! Próxima ocorrência agendada automaticamente.</string>
+    <string name="msg_reminder_saved">Lembrete salvo com sucesso.</string>
+    <string name="msg_reminder_deleted">Lembrete removido.</string>
+    <string name="msg_reminder_snoozed">Lembrete adiado.</string>
+
+    <!-- Empty States -->
+    <string name="empty_illustration_desc">Ilustração de lista tranquila</string>
+    <string name="empty_today_title">Tudo em dia por hoje!</string>
+    <string name="empty_today_subtitle">Aproveite seu tempo livre ou toque em Novo lembrete para planejar algo importante.</string>
+    <string name="empty_upcoming_title">Nenhum lembrete futuro</string>
+    <string name="empty_upcoming_subtitle">Agende compromissos, contas ou metas para os próximos dias.</string>
+    <string name="empty_completed_title">Nenhum item concluído ainda</string>
+    <string name="empty_completed_subtitle">Quando você marcar lembretes como feitos, eles aparecerão aqui.</string>
+    <string name="empty_search_title">Nenhum resultado encontrado</string>
+    <string name="empty_search_subtitle">Tente buscar por outra palavra ou limpar o filtro de categoria.</string>
+
+    <!-- Create / Edit Sheet -->
+    <string name="sheet_title_new">Novo Lembrete</string>
+    <string name="sheet_title_edit">Editar Lembrete</string>
+    <string name="field_title_label">O que você precisa lembrar?</string>
+    <string name="field_title_placeholder">Ex.: Tomar vitamina, Pagar internet, Reunião…</string>
+    <string name="field_notes_label">Notas ou detalhes (opcional)</string>
+    <string name="field_notes_placeholder">Adicione observações, links ou itens…</string>
+    <string name="section_quick_time">Atalhos de horário</string>
+    <string name="preset_in_30m">Em 30 min</string>
+    <string name="preset_in_2h">Em 2 horas</string>
+    <string name="preset_tonight">Hoje 20h</string>
+    <string name="preset_tomorrow_morning">Amanhã 9h</string>
+    <string name="section_date_time">Data e Horário</string>
+    <string name="pick_date">Escolher data</string>
+    <string name="pick_time">Escolher hora</string>
+    <string name="section_category">Categoria</string>
+    <string name="section_priority">Prioridade</string>
+    <string name="section_recurrence">Repetição</string>
+    <string name="toggle_alert_title">Notificar no celular</string>
+    <string name="toggle_alert_subtitle">Tocar alerta na barra de notificações no horário</string>
+    <string name="btn_save_reminder">Salvar Lembrete</string>
+    <string name="btn_update_reminder">Salvar Alterações</string>
+    <string name="btn_delete_reminder">Excluir</string>
+    <string name="btn_confirm">Confirmar</string>
+    <string name="error_title_empty">Digite um título para o lembrete.</string>
+    <string name="error_generic">Não foi possível concluir a operação. Tente novamente.</string>
+</resources>

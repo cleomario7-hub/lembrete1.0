@@ -1,0 +1,6 @@
+{
+  "name": "Lembretes",
+  "description": "Aplicativo moderno de lembretes, tarefas e alertas sincronizados na nuvem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
